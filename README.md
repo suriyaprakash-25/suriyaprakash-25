@@ -103,54 +103,63 @@ I follow **interesting problems**.
 
 ## 🚀 Featured Projects
 
-### 🏢 STATUTEK
+### 🏢 [STATUTEK](https://github.com/suriyaprakash-25/STATUTEK)
+
 **Business Compliance & Documentation Platform**
 
-A product-focused platform exploring how technology can simplify
-business compliance, registrations, documentation and related services.
+A product-focused platform exploring how technology can simplify business compliance, registrations, documentation, and related services.
 
-**Exploring:** SaaS • Automation • Product Development • Full Stack
+**Exploring:** SaaS • Business Automation • Product Development • Full Stack
+
+🔗 [Repository](https://github.com/suriyaprakash-25/STATUTEK) • 🌐 [Live Project](https://statutek.vercel.app/)
 
 ---
 
-### 🚗 Digital Twin
+### 🚗 [Digital Twin](https://github.com/suriyaprakash-25/Digital-Twin)
+
 **Digital Representation of Real-World Vehicles**
 
-An exploration into representing real-world vehicles through digital
-counterparts and software-driven interactions.
+A full-stack digital twin system exploring real-world vehicle representation through software, data, and intelligent interactions.
 
-**Exploring:** Digital Twins • Data • Software Systems
+**Exploring:** Digital Twins • Full Stack • Real-World Data • AI Systems
 
----
-
-### 🩺 SepsisSense
-**AI-Assisted Sepsis Detection**
-
-A machine learning project exploring early detection of sepsis
-using healthcare data.
-
-**Exploring:** Machine Learning • Healthcare AI • Data Science
+🔗 [Repository](https://github.com/suriyaprakash-25/Digital-Twin) • 🌐 [Live Project](https://www.driveportz.com/)
 
 ---
 
-### 💻 CampusCode
-**Coding & Aptitude Practice Platform**
+### 🩺 [SepsisSense](https://github.com/suriyaprakash-25/SepsisSense)
 
-A platform concept designed around structured coding and aptitude
-practice, with dedicated experiences for administrators, teachers
-and students.
+**AI-Powered Early Sepsis Detection System**
 
-**Exploring:** React • Backend Systems • MongoDB • Platform Architecture
+A machine learning system designed to predict sepsis onset in ICU patients, with an interactive dashboard and explainable AI capabilities.
+
+**Exploring:** Machine Learning • XGBoost • SHAP • Healthcare AI • Data Science
+
+🔗 [Repository](https://github.com/suriyaprakash-25/SepsisSense)
 
 ---
 
-### 🎙️ OneVoice
-**AI / Voice Experimentation**
+### 💻 [Codeholics](https://github.com/suriyaprakash-25/CODEHOLICS)
 
-An experimental project exploring intelligent voice and communication
-technologies.
+**Coding & Technical Development**
 
-**Exploring:** Python • AI • Voice Technologies
+A project focused on coding, experimentation, and building practical software solutions.
+
+**Exploring:** Software Development • Programming • Problem Solving
+
+🔗 [Repository](https://github.com/suriyaprakash-25/CODEHOLICS)
+
+---
+
+### 🧩 [Justcode](https://github.com/suriyaprakash-25/JUSTCODE)
+
+**Coding & Development Experiments**
+
+A space for experimenting with ideas, building software, and exploring different approaches to solving technical problems.
+
+**Exploring:** Programming • Software Engineering • Experiments
+
+🔗 [Repository](https://github.com/suriyaprakash-25/JUSTCODE)
 
 ---
 
