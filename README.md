@@ -551,7 +551,7 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+<img src="./profile/github-stats.svg" height="180" alt="GitHub Stats" />
 &nbsp;
 <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 
