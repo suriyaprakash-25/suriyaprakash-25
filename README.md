@@ -555,10 +555,6 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 &nbsp;
 <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=suriyaprakash-25&theme=transparent&hide_border=true" width="70%" alt="Streak Stats" />
-
 </div>
 
 ---
@@ -569,15 +565,8 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 <img src="https://activity-graph.vercel.app/graph?username=suriyaprakash-25&theme=github-compact&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suriyaprakash-25/suriyaprakash-25/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suriyaprakash-25/suriyaprakash-25/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/suriyaprakash-25/suriyaprakash-25/output/github-snake.svg" width="95%">
-</picture>
-
 </div>
+
 
 
 ---
