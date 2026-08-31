@@ -416,7 +416,7 @@ I continuously experiment with:
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### AI LAB
 
@@ -430,7 +430,7 @@ I continuously experiment with:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### INFRASTRUCTURE LAB
 
@@ -444,11 +444,7 @@ I continuously experiment with:
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### ENGINEERING LAB
 
@@ -462,7 +458,7 @@ I continuously experiment with:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### PRODUCT LAB
 
@@ -555,9 +551,9 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suriyaprakash-25&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="180" alt="GitHub Stats" />
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaprakash-25&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180" alt="Top Languages" />
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 
 <br><br>
 
@@ -571,7 +567,7 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suriyaprakash-25&theme=github-compact&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+<img src="https://activity-graph.vercel.app/graph?username=suriyaprakash-25&theme=github-compact&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 
 <br><br>
 
@@ -582,6 +578,7 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 </picture>
 
 </div>
+
 
 ---
 
