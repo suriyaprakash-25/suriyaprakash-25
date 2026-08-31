@@ -43,7 +43,7 @@ I don't follow a fixed technology stack.
 
 I follow **interesting problems**.
 
-```text
+
         💡 IDEA
            │
            ▼
@@ -68,8 +68,6 @@ I follow **interesting problems**.
         📚 LEARN
            │
            └───────────────↻
-
-           ```md
 ---
 
 ## 🔭 Currently Building
