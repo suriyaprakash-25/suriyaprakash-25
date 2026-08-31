@@ -390,11 +390,11 @@ I continuously experiment with:
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### AI LAB
 
-Exploring:
+**Exploring**
 
 - Machine Learning
 - Generative AI
@@ -404,11 +404,11 @@ Exploring:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### INFRASTRUCTURE LAB
 
-Exploring:
+**Exploring**
 
 - Docker
 - CI/CD
@@ -418,15 +418,11 @@ Exploring:
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### ENGINEERING LAB
 
-Exploring:
+**Exploring**
 
 - System Design
 - APIs
@@ -436,11 +432,11 @@ Exploring:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### PRODUCT LAB
 
-Exploring:
+**Exploring**
 
 - SaaS Ideas
 - Startup Experiments
@@ -451,7 +447,6 @@ Exploring:
 
 </tr>
 </table>
-
 ---
 
 # ACHIEVEMENTS
