@@ -248,20 +248,4 @@ I'm currently going deeper into:
   </picture>
 </p>
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=suriyaprakash-25&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaprakash-25&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
-    height="180"
-  />
-</p>
-
-
 
