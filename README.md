@@ -248,4 +248,22 @@ I'm currently going deeper into:
   </picture>
 </p>
 
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+
 
