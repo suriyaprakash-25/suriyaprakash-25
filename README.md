@@ -36,7 +36,7 @@
 
 ---
 
-## 🧠 WHO I AM
+## WHO I AM
 
 <table>
 <tr>
@@ -60,12 +60,12 @@ I don't want to just learn how technology works.
 
 ### Areas I Work In
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 💻 **Software Engineering & Full-Stack Development**
-- ☁️ **Cloud & DevOps**
-- 🧠 **Data & Intelligent Systems**
-- 🚀 **Startups, SaaS & Product Development**
-- 🧪 **Emerging Technologies & Experimental Ideas**
+- **Artificial Intelligence & Machine Learning**
+- **Software Engineering & Full-Stack Development**
+- **Cloud & DevOps**
+- **Data & Intelligent Systems**
+- **Startups, SaaS & Product Development**
+- **Emerging Technologies & Experimental Ideas**
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ I don't want to just learn how technology works.
 
 ---
 
-## 🛠️ HOW I BUILD
+## HOW I BUILD
 
 <div align="center">
 
@@ -91,7 +91,7 @@ Most of my projects start with a simple question:
 
 ---
 
-## 🔭 CURRENTLY BUILDING
+## CURRENTLY BUILDING
 
 <table>
 <tr>
@@ -106,7 +106,7 @@ A business compliance and documentation platform exploring how technology can si
 
 <br>
 
-🔗 [Repository](https://github.com/suriyaprakash-25/STATUTEK) · 🌐 [Live Project](https://statutek.vercel.app/)
+[Repository](https://github.com/suriyaprakash-25/STATUTEK) · [Live Project](https://statutek.vercel.app/)
 
 </td>
 
@@ -120,7 +120,7 @@ A full-stack digital twin system exploring real-world vehicle representation thr
 
 <br>
 
-🔗 [Repository](https://github.com/suriyaprakash-25/Digital-Twin) · 🌐 [Live Project](https://www.driveportz.com/)
+[Repository](https://github.com/suriyaprakash-25/Digital-Twin) · [Live Project](https://www.driveportz.com/)
 
 </td>
 
@@ -134,7 +134,7 @@ A machine learning system designed to predict sepsis onset in ICU patients, with
 
 <br>
 
-🔗 [Repository](https://github.com/suriyaprakash-25/SepsisSense)
+[Repository](https://github.com/suriyaprakash-25/SepsisSense)
 
 </td>
 
@@ -179,7 +179,7 @@ A space for experiments, prototypes and ideas that exist mainly because I wanted
 
 ---
 
-## 💻 TECH UNIVERSE
+## TECH UNIVERSE
 
 <table>
 <tr>
@@ -289,14 +289,14 @@ A space for experiments, prototypes and ideas that exist mainly because I wanted
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## FEATURED PROJECTS
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🏢 STATUTEK
+### STATUTEK
 
 **Business Compliance & Documentation Platform**
 
@@ -308,13 +308,13 @@ A product-focused platform exploring how technology can simplify business compli
 
 **Links**
 
-🔗 [Repository](https://github.com/suriyaprakash-25/STATUTEK) · 🌐 [Live Project](https://statutek.vercel.app/)
+[Repository](https://github.com/suriyaprakash-25/STATUTEK) · [Live Project](https://statutek.vercel.app/)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚗 DIGITAL TWIN
+### DIGITAL TWIN
 
 **Digital Representation of Real-World Vehicles**
 
@@ -326,7 +326,7 @@ A full-stack digital twin system exploring real-world vehicle representation thr
 
 **Links**
 
-🔗 [Repository](https://github.com/suriyaprakash-25/Digital-Twin) · 🌐 [Live Project](https://www.driveportz.com/)
+[Repository](https://github.com/suriyaprakash-25/Digital-Twin) · [Live Project](https://www.driveportz.com/)
 
 </td>
 
@@ -336,7 +336,7 @@ A full-stack digital twin system exploring real-world vehicle representation thr
 
 <td width="50%" valign="top">
 
-### 🩺 SEPSISSENSE
+### SEPSISSENSE
 
 **AI-Powered Early Sepsis Detection System**
 
@@ -348,13 +348,13 @@ A machine learning system designed to predict sepsis onset in ICU patients, with
 
 **Links**
 
-🔗 [Repository](https://github.com/suriyaprakash-25/SepsisSense)
+[Repository](https://github.com/suriyaprakash-25/SepsisSense)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 CODEHOLICS
+### CODEHOLICS
 
 **Coding & Technical Development**
 
@@ -366,7 +366,7 @@ A project focused on coding, experimentation and building practical software sol
 
 **Links**
 
-🔗 [Repository](https://github.com/suriyaprakash-25/CODEHOLICS)
+[Repository](https://github.com/suriyaprakash-25/CODEHOLICS)
 
 </td>
 
@@ -376,7 +376,7 @@ A project focused on coding, experimentation and building practical software sol
 
 <td width="50%" valign="top">
 
-### 🧩 JUSTCODE
+### JUSTCODE
 
 **Coding & Development Experiments**
 
@@ -388,13 +388,13 @@ A space for experimenting with ideas, building software and exploring different 
 
 **Links**
 
-🔗 [Repository](https://github.com/suriyaprakash-25/JUSTCODE)
+[Repository](https://github.com/suriyaprakash-25/JUSTCODE)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔬 MORE IN THE LAB
+### MORE IN THE LAB
 
 I continuously experiment with:
 
@@ -411,14 +411,14 @@ I continuously experiment with:
 
 ---
 
-## 🧪 THE LAB
+## THE LAB
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🤖 AI LAB
+### AI LAB
 
 **Exploring**
 
@@ -432,7 +432,7 @@ I continuously experiment with:
 
 <td width="50%" valign="top">
 
-### ☁️ INFRASTRUCTURE LAB
+### INFRASTRUCTURE LAB
 
 **Exploring**
 
@@ -450,7 +450,7 @@ I continuously experiment with:
 
 <td width="50%" valign="top">
 
-### 💻 ENGINEERING LAB
+### ENGINEERING LAB
 
 **Exploring**
 
@@ -464,7 +464,7 @@ I continuously experiment with:
 
 <td width="50%" valign="top">
 
-### 🚀 PRODUCT LAB
+### PRODUCT LAB
 
 **Exploring**
 
@@ -480,37 +480,37 @@ I continuously experiment with:
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## ACHIEVEMENTS
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🚀 INDUSTRY & LEADERSHIP
+### INDUSTRY & LEADERSHIP
 
 **PayPal Mentorship Program**  
 Selected for industry mentorship and exposure to real-world software engineering practices.
 
 <br>
 
-**🇸🇬 FLY TO SINGAPORE 12.0 QUALIFIER — RYLA 54.0**  
+**FLY TO SINGAPORE 12.0 QUALIFIER — RYLA 54.0**  
 Qualified through position-based selection for entrepreneurship, business planning, presentation and leadership performance.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 HACKATHONS & COMPETITIONS
+### HACKATHONS & COMPETITIONS
 
 **Finalist — InnoHack, VIT University**  
 Finalist in the InnoHack hackathon conducted by VIT University.
 
 <br>
 
-- 🥈 **2nd Prize — Creatathon 2025**
-- 🥈 **2nd Prize — Freshathon 2025**
-- 🥈 **2nd Prize — Web Design Showdown 2025**
+- **2nd Prize — Creatathon 2025**
+- **2nd Prize — Freshathon 2025**
+- **2nd Prize — Web Design Showdown 2025**
 
 </td>
 
@@ -519,14 +519,14 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 ---
 
-## 📚 CURRENTLY LEARNING
+## CURRENTLY LEARNING
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ⚙️ CORE ENGINEERING
+### CORE ENGINEERING
 
 - Advanced Data Structures & Algorithms
 - System Design & Scalable Architecture
@@ -537,7 +537,7 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 <td width="50%" valign="top">
 
-### 🧠 AI & INFRASTRUCTURE
+### AI & INFRASTRUCTURE
 
 - Machine Learning Engineering
 - Generative AI & LLM Applications
@@ -551,7 +551,7 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 ---
 
-## 📊 GITHUB
+## GITHUB
 
 <div align="center">
 
@@ -567,7 +567,7 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 ---
 
-## 📈 CONTRIBUTION ACTIVITY
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -585,7 +585,7 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 ---
 
-## 🤝 CONNECT WITH ME
+## CONNECT WITH ME
 
 <div align="center">
 
