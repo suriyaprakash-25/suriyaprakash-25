@@ -274,5 +274,42 @@ I'm currently going deeper into:
   />
 </p>
 
+---
+
+## 🤝 Connect With Me
+
+I'm always open to interesting conversations, collaborations, projects, and opportunities.
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/suriyaprakash-r-m-64133a327">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:suriyaprakashrm25@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.suriyaprakashrm.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>Build something meaningful. Break things. Learn faster. Ship better.</i>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by! 👋</b>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting here, feel free to explore the repositories.
+</p>
+
+
 
 
