@@ -3,7 +3,7 @@
 # SURIYAPRAKASH R M
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%E2%80%A2+SOFTWARE+ENGINEERING+%E2%80%A2+CLOUD+%E2%80%A2+PRODUCTS;Building+intelligent+systems%2C+scalable+software+and+real-world+products.;Curiosity+%E2%86%92+Experiment+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Ship" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=AI+%E2%80%A2+SOFTWARE+ENGINEERING+%E2%80%A2+CLOUD+%E2%80%A2+PRODUCTS;Building+intelligent+systems%2C+scalable+software+and+real-world+products.;Curiosity+%E2%86%92+Experiment+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Ship" alt="Typing Banner" />
 </p>
 
 ### AI • SOFTWARE ENGINEERING • CLOUD • PRODUCTS
