@@ -2,26 +2,41 @@
 
 # SURIYAPRAKASH R M
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%E2%80%A2+SOFTWARE+ENGINEERING+%E2%80%A2+CLOUD+%E2%80%A2+PRODUCTS;Building+intelligent+systems%2C+scalable+software+and+real-world+products.;Curiosity+%E2%86%92+Experiment+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Ship" alt="Typing Banner" />
+</p>
+
 ### AI • SOFTWARE ENGINEERING • CLOUD • PRODUCTS
 
 **Building intelligent systems, scalable software and real-world products.**
 
-<br>
+<p align="center">
+  <a href="https://github.com/suriyaprakash-25">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/suriyaprakash-r-m-64133a327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.suriyaprakashrm.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:suriyaprakashrm25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suriyaprakash-25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriyaprakash-r-m-64133a327/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.suriyaprakashrm.dev/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suriyaprakashrm25@gmail.com)
-
-<br>
-
-`Curiosity → Experiment → Build → Break → Learn → Ship`
+<p align="center">
+  <code>Curiosity → Experiment → Build → Break → Learn → Ship</code>
+</p>
 
 </div>
 
 ---
 
-## WHO I AM
+## 🧠 WHO I AM
 
 <table>
 <tr>
@@ -45,17 +60,12 @@ I don't want to just learn how technology works.
 
 ### Areas I Work In
 
-**Artificial Intelligence & Machine Learning**
-
-**Software Engineering & Full-Stack Development**
-
-**Cloud & DevOps**
-
-**Data & Intelligent Systems**
-
-**Startups, SaaS & Product Development**
-
-**Emerging Technologies & Experimental Ideas**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 💻 **Software Engineering & Full-Stack Development**
+- ☁️ **Cloud & DevOps**
+- 🧠 **Data & Intelligent Systems**
+- 🚀 **Startups, SaaS & Product Development**
+- 🧪 **Emerging Technologies & Experimental Ideas**
 
 </td>
 </tr>
@@ -63,7 +73,7 @@ I don't want to just learn how technology works.
 
 ---
 
-## HOW I BUILD
+## 🛠️ HOW I BUILD
 
 <div align="center">
 
@@ -81,7 +91,7 @@ Most of my projects start with a simple question:
 
 ---
 
-## CURRENTLY BUILDING
+## 🔭 CURRENTLY BUILDING
 
 <table>
 <tr>
@@ -94,7 +104,9 @@ Most of my projects start with a simple question:
 
 A business compliance and documentation platform exploring how technology can simplify registrations, compliance, documentation and related services.
 
-[Repository](https://github.com/suriyaprakash-25/STATUTEK) · [Live Project](https://statutek.vercel.app/)
+<br>
+
+🔗 [Repository](https://github.com/suriyaprakash-25/STATUTEK) · 🌐 [Live Project](https://statutek.vercel.app/)
 
 </td>
 
@@ -106,7 +118,9 @@ A business compliance and documentation platform exploring how technology can si
 
 A full-stack digital twin system exploring real-world vehicle representation through software, data and intelligent interactions.
 
-[Repository](https://github.com/suriyaprakash-25/Digital-Twin) · [Live Project](https://www.driveportz.com/)
+<br>
+
+🔗 [Repository](https://github.com/suriyaprakash-25/Digital-Twin) · 🌐 [Live Project](https://www.driveportz.com/)
 
 </td>
 
@@ -118,7 +132,9 @@ A full-stack digital twin system exploring real-world vehicle representation thr
 
 A machine learning system designed to predict sepsis onset in ICU patients, with an interactive dashboard and explainable AI capabilities.
 
-[Repository](https://github.com/suriyaprakash-25/SepsisSense)
+<br>
+
+🔗 [Repository](https://github.com/suriyaprakash-25/SepsisSense)
 
 </td>
 
@@ -163,7 +179,7 @@ A space for experiments, prototypes and ideas that exist mainly because I wanted
 
 ---
 
-# TECH UNIVERSE
+## 💻 TECH UNIVERSE
 
 <table>
 <tr>
@@ -172,12 +188,14 @@ A space for experiments, prototypes and ideas that exist mainly because I wanted
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
 </td>
 
@@ -185,11 +203,13 @@ A space for experiments, prototypes and ideas that exist mainly because I wanted
 
 ### AI / ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/XGBoost-185A9D?style=flat-square" alt="XGBoost" />
+</p>
 
 **Computer Vision**  
 **Deep Learning**  
@@ -201,10 +221,12 @@ A space for experiments, prototypes and ideas that exist mainly because I wanted
 
 ### Software Engineering
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
 
 **REST APIs**  
 **Full-Stack Development**  
@@ -220,13 +242,14 @@ A space for experiments, prototypes and ideas that exist mainly because I wanted
 
 ### Data & Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+</p>
 
 </td>
 
@@ -234,13 +257,14 @@ A space for experiments, prototypes and ideas that exist mainly because I wanted
 
 ### Cloud & DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+</p>
 
 **CI/CD • Deployment • Automation**
 
@@ -250,11 +274,13 @@ A space for experiments, prototypes and ideas that exist mainly because I wanted
 
 ### Tools
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 </td>
 
@@ -263,14 +289,14 @@ A space for experiments, prototypes and ideas that exist mainly because I wanted
 
 ---
 
-# FEATURED PROJECTS
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## STATUTEK
+### 🏢 STATUTEK
 
 **Business Compliance & Documentation Platform**
 
@@ -282,13 +308,13 @@ A product-focused platform exploring how technology can simplify business compli
 
 **Links**
 
-[Repository](https://github.com/suriyaprakash-25/STATUTEK) · [Live Project](https://statutek.vercel.app/)
+🔗 [Repository](https://github.com/suriyaprakash-25/STATUTEK) · 🌐 [Live Project](https://statutek.vercel.app/)
 
 </td>
 
 <td width="50%" valign="top">
 
-## DIGITAL TWIN
+### 🚗 DIGITAL TWIN
 
 **Digital Representation of Real-World Vehicles**
 
@@ -300,7 +326,7 @@ A full-stack digital twin system exploring real-world vehicle representation thr
 
 **Links**
 
-[Repository](https://github.com/suriyaprakash-25/Digital-Twin) · [Live Project](https://www.driveportz.com/)
+🔗 [Repository](https://github.com/suriyaprakash-25/Digital-Twin) · 🌐 [Live Project](https://www.driveportz.com/)
 
 </td>
 
@@ -310,7 +336,7 @@ A full-stack digital twin system exploring real-world vehicle representation thr
 
 <td width="50%" valign="top">
 
-## SEPSISSENSE
+### 🩺 SEPSISSENSE
 
 **AI-Powered Early Sepsis Detection System**
 
@@ -322,13 +348,13 @@ A machine learning system designed to predict sepsis onset in ICU patients, with
 
 **Links**
 
-[Repository](https://github.com/suriyaprakash-25/SepsisSense)
+🔗 [Repository](https://github.com/suriyaprakash-25/SepsisSense)
 
 </td>
 
 <td width="50%" valign="top">
 
-## CODEHOLICS
+### 💻 CODEHOLICS
 
 **Coding & Technical Development**
 
@@ -340,7 +366,7 @@ A project focused on coding, experimentation and building practical software sol
 
 **Links**
 
-[Repository](https://github.com/suriyaprakash-25/CODEHOLICS)
+🔗 [Repository](https://github.com/suriyaprakash-25/CODEHOLICS)
 
 </td>
 
@@ -350,7 +376,7 @@ A project focused on coding, experimentation and building practical software sol
 
 <td width="50%" valign="top">
 
-## JUSTCODE
+### 🧩 JUSTCODE
 
 **Coding & Development Experiments**
 
@@ -362,13 +388,13 @@ A space for experimenting with ideas, building software and exploring different 
 
 **Links**
 
-[Repository](https://github.com/suriyaprakash-25/JUSTCODE)
+🔗 [Repository](https://github.com/suriyaprakash-25/JUSTCODE)
 
 </td>
 
 <td width="50%" valign="top">
 
-### MORE IN THE LAB
+### 🔬 MORE IN THE LAB
 
 I continuously experiment with:
 
@@ -385,14 +411,14 @@ I continuously experiment with:
 
 ---
 
-# THE LAB
+## 🧪 THE LAB
 
 <table>
 <tr>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### AI LAB
+### 🤖 AI LAB
 
 **Exploring**
 
@@ -404,9 +430,9 @@ I continuously experiment with:
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### INFRASTRUCTURE LAB
+### ☁️ INFRASTRUCTURE LAB
 
 **Exploring**
 
@@ -418,9 +444,13 @@ I continuously experiment with:
 
 </td>
 
-<td width="25%" valign="top">
+</tr>
 
-### ENGINEERING LAB
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 ENGINEERING LAB
 
 **Exploring**
 
@@ -432,9 +462,9 @@ I continuously experiment with:
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### PRODUCT LAB
+### 🚀 PRODUCT LAB
 
 **Exploring**
 
@@ -447,40 +477,40 @@ I continuously experiment with:
 
 </tr>
 </table>
+
 ---
 
-# ACHIEVEMENTS
+## 🏆 ACHIEVEMENTS
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### INDUSTRY & LEADERSHIP
+### 🚀 INDUSTRY & LEADERSHIP
 
-**PayPal Mentorship Program**
-
+**PayPal Mentorship Program**  
 Selected for industry mentorship and exposure to real-world software engineering practices.
 
-**SG FLY TO SINGAPORE 12.0 QUALIFIER — RYLA 54.0**
+<br>
 
+**🇸🇬 FLY TO SINGAPORE 12.0 QUALIFIER — RYLA 54.0**  
 Qualified through position-based selection for entrepreneurship, business planning, presentation and leadership performance.
 
 </td>
 
 <td width="50%" valign="top">
 
-### HACKATHONS & COMPETITIONS
+### 💻 HACKATHONS & COMPETITIONS
 
-**Finalist — InnoHack, VIT University**
-
+**Finalist — InnoHack, VIT University**  
 Finalist in the InnoHack hackathon conducted by VIT University.
 
-**2nd Prize — Creatathon 2025**
+<br>
 
-**2nd Prize — Freshathon 2025**
-
-**2nd Prize — Web Design Showdown 2025**
+- 🥈 **2nd Prize — Creatathon 2025**
+- 🥈 **2nd Prize — Freshathon 2025**
+- 🥈 **2nd Prize — Web Design Showdown 2025**
 
 </td>
 
@@ -489,14 +519,14 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 ---
 
-# CURRENTLY LEARNING
+## 📚 CURRENTLY LEARNING
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### CORE ENGINEERING
+### ⚙️ CORE ENGINEERING
 
 - Advanced Data Structures & Algorithms
 - System Design & Scalable Architecture
@@ -507,7 +537,7 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 <td width="50%" valign="top">
 
-### AI & INFRASTRUCTURE
+### 🧠 AI & INFRASTRUCTURE
 
 - Machine Learning Engineering
 - Generative AI & LLM Applications
@@ -521,37 +551,41 @@ Finalist in the InnoHack hackathon conducted by VIT University.
 
 ---
 
-# GITHUB
+## 📊 GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suriyaprakash-25&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=suriyaprakash-25&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="180" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaprakash-25&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaprakash-25&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180">
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=suriyaprakash-25&theme=transparent&hide_border=true" width="70%">
+<img src="https://streak-stats.demolab.com?user=suriyaprakash-25&theme=transparent&hide_border=true" width="70%" alt="Streak Stats" />
 
 </div>
 
 ---
 
-# CONTRIBUTION ACTIVITY
+## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suriyaprakash-25&theme=github-compact&hide_border=true&area=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suriyaprakash-25&theme=github-compact&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suriyaprakash-25/suriyaprakash-25/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suriyaprakash-25/suriyaprakash-25/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/suriyaprakash-25/suriyaprakash-25/output/github-snake.svg" width="95%">
+</picture>
 
 </div>
 
 ---
 
-# CONNECT WITH ME
+## 🤝 CONNECT WITH ME
 
 <div align="center">
 
@@ -560,18 +594,14 @@ I'm always open to interesting conversations, collaborations, projects and oppor
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suriyaprakash-25)
-
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriyaprakash-r-m-64133a327/)
-
+&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.suriyaprakashrm.dev/)
-
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suriyaprakashrm25@gmail.com)
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ### BUILD SOMETHING MEANINGFUL.
 
