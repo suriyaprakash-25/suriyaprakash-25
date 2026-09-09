@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">SURIYA PRAKASH R M&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Commits  (last year) : 405, Total PRs: 19</desc>
+        <desc id="descId">Total Commits  (last year) : 417, Total PRs: 19</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 191.72174602887367;
+        stroke-dashoffset: 191.27580028244375;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -102,9 +103,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -162,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >405</text>
+      >417</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
