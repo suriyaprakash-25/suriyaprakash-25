@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="t">
+  <title id="t">Suriyaprakash R M: AI and software engineer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1E293B" stroke-width="1"/>
+    </pattern>
+    <style>
+      .name { font: 800 64px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; letter-spacing: 2px; }
+      .role { font: 600 18px 'Fira Code', Consolas, monospace; fill: #94A3B8; letter-spacing: 6px; }
+      .node { fill: #38BDF8; animation: pulse 3s ease-in-out infinite; }
+      .n2 { animation-delay: .6s; fill: #818CF8; }
+      .n3 { animation-delay: 1.2s; fill: #C084FC; }
+      .edge { stroke: #334155; stroke-width: 1.5; stroke-dasharray: 6 6; animation: flow 4s linear infinite; }
+      @keyframes pulse { 0%,100% { opacity: .35 } 50% { opacity: 1 } }
+      @keyframes flow { to { stroke-dashoffset: -48 } }
+    </style>
+  </defs>
+  <rect width="1200" height="220" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="220" rx="16" fill="url(#grid)" opacity="0.6"/>
+  <!-- left neural motif -->
+  <g>
+    <line class="edge" x1="70" y1="60" x2="150" y2="110"/>
+    <line class="edge" x1="70" y1="160" x2="150" y2="110"/>
+    <line class="edge" x1="150" y1="110" x2="220" y2="70"/>
+    <line class="edge" x1="150" y1="110" x2="220" y2="150"/>
+    <circle class="node" cx="70" cy="60" r="6"/>
+    <circle class="node n2" cx="70" cy="160" r="6"/>
+    <circle class="node n3" cx="150" cy="110" r="8"/>
+    <circle class="node" cx="220" cy="70" r="6"/>
+    <circle class="node n2" cx="220" cy="150" r="6"/>
+  </g>
+  <!-- right neural motif -->
+  <g>
+    <line class="edge" x1="980" y1="70" x2="1050" y2="110"/>
+    <line class="edge" x1="980" y1="150" x2="1050" y2="110"/>
+    <line class="edge" x1="1050" y1="110" x2="1130" y2="60"/>
+    <line class="edge" x1="1050" y1="110" x2="1130" y2="160"/>
+    <circle class="node n3" cx="980" cy="70" r="6"/>
+    <circle class="node" cx="980" cy="150" r="6"/>
+    <circle class="node n2" cx="1050" cy="110" r="8"/>
+    <circle class="node n3" cx="1130" cy="60" r="6"/>
+    <circle class="node" cx="1130" cy="160" r="6"/>
+  </g>
+  <text x="600" y="118" text-anchor="middle" class="name" fill="url(#txt)">SURIYAPRAKASH R M</text>
+  <text x="600" y="162" text-anchor="middle" class="role">AI · SOFTWARE · CLOUD · PRODUCTS</text>
+</svg>
