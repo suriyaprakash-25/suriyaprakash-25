@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/suriyaprakash-r-m-64133a327/">
+  <a href="https://www.linkedin.com/in/suriya-prakash-r-m-64133a327">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -581,7 +581,7 @@ I'm always open to interesting conversations, collaborations, projects and oppor
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suriyaprakash-25)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriyaprakash-r-m-64133a327/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriya-prakash-r-m-64133a327)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.suriyaprakashrm.dev/)
 &nbsp;
