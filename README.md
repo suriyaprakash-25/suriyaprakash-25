@@ -100,9 +100,9 @@ Most of my projects start with a simple question:
 
 ### STATUTEK
 
-**SaaS • Business Automation • Product Development**
+**Startup • Business Services • Web**
 
-A business compliance and documentation platform exploring how technology can simplify registrations, compliance, documentation and related services.
+Website for STATUTEK, a startup offering company registration, GST, trademark and Startup India support plus web, SaaS and branding work.
 
 <br>
 
@@ -112,11 +112,11 @@ A business compliance and documentation platform exploring how technology can si
 
 <td width="33%" valign="top">
 
-### DIGITAL TWIN
+### DRIVEPORTZ (DIGITAL TWIN)
 
-**Digital Twins • Real-world Data**
+**Marketplace • Payments • Full Stack**
 
-A full-stack digital twin system exploring real-world vehicle representation through software, data and intelligent interactions.
+A car ownership and garage marketplace: every car gets a "vehicle passport" with service history, health score and resale estimate, and owners book and pay garages online.
 
 <br>
 
@@ -130,7 +130,7 @@ A full-stack digital twin system exploring real-world vehicle representation thr
 
 **Machine Learning • Healthcare AI**
 
-A machine learning system designed to predict sepsis onset in ICU patients, with an interactive dashboard and explainable AI capabilities.
+Hourly sepsis early warning for ICU patients, trained on 40,336 PhysioNet patients (ROC-AUC 0.86 on held-out patients), with SHAP explanations, a clinician dashboard and a patient portal.
 
 <br>
 
@@ -158,7 +158,7 @@ A coding and aptitude practice platform concept designed around structured pract
 
 **LLMs • Intelligent Systems • Automation**
 
-A collection of experiments exploring LLM applications, generative AI, intelligent automation and emerging AI systems.
+LLM and agent projects: an MCP storefront for AI shopping agents ([AgentShelf](https://github.com/suriyaprakash-25/AgentShelf)), a text-to-SQL analyst ([AskMetrics](https://github.com/suriyaprakash-25/AskMetrics)), a multi-agent counterfeit investigator ([CounterGuard AI](https://github.com/suriyaprakash-25/counterguard-ai)) and a story-to-comic generator ([Comic Book Generator](https://github.com/suriyaprakash-25/Comic-Book-Generator)).
 
 </td>
 
